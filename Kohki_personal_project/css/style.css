@@ -1,3 +1,29 @@
-h1 {
-	font-size: 35px;
+.title {
+	font-size: 80px;
+	font-family: sans-serif;
+	
+}
+
+.newyork {
+	width: 100%;
+	height: 550px;
+}
+body {
+	
+}
+
+
+.background {
+
+	background-image: url('image/pexels-photo-386148.jpeg');
+}
+
+.nothing {
+	text-indent:100%;
+	white-space:nowrap;
+	overflow:hidden;
+}
+
+.introduction {
+	font-size: 15px;
 }
